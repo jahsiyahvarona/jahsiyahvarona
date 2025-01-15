@@ -9,7 +9,7 @@
   - [CRC &  Line Encoding](https://github.com/jahsiyahvarona/Cyclic-Redundancy-Check-CRC-) <b></b></i>
   
 - <b>Cryptocurrency API (spring boot Java web framework, Java)</b>
-  - [Cryptocurrency API](https://github.com/jahsiyahvarona/travel-service-hub) <b></b></i>
+  - [Cryptocurrency API](https://github.com/jahsiyahvarona/crypto-api) <b></b></i>
 https://github.com/jahsiyahvarona/Cyclic-Redundancy-Check-CRC-
 
 <h2> 🤳 Connect with me:</h2>
