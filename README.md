@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jahsiyah! <br/><a href="https://github.com/jahsiyahvarona">Programmer</a>, <a href="www.linkedin.com/in/jahsiyahvarona">Aspiring Cybersecurity Professional</a>
+<h1>Hi, I'm Jahsiyah! <br/><a href="https://github.com/jahsiyahvarona">Programmer</a>, <a href="www.linkedin.com/in/jahsiyahvarona">Aspiring Cybersecurity analyst</a>
 
 <h2>👨‍💻 Projects:</h2>
 
