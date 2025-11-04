@@ -15,7 +15,7 @@ https://github.com/jahsiyahvarona/Cyclic-Redundancy-Check-CRC-
 <h2>📄 Certification:</h2>
 
 - <b>N/A</b>
-  - [N/A](https://github.com/joshmadakor1/Algorithms-Practice)
+  - google cybersecurity certificate
 
 <h2> 🤳 Connect with me:</h2>
 
