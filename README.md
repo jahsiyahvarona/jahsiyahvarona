@@ -8,7 +8,7 @@
 
 - **Akin Learning** *(Node.js, PostgreSQL, REST APIs, HTML, CSS, JavaScript)*
   - Developed an AI-powered tutoring platform that promotes critical thinking through guided learning. Designed responsive web interfaces and created/optimized RESTful APIs to enhance application functionality and performance.
-  - **Repository:** https://github.com/jahsiyahvarona/Akin-Learning
+  - **Repository:** https://github.com/SarvSrid/CSC-490-Senior-Project
 
 - **Travel Services Hub** *(Spring Boot, Java, MySQL, SQL, HTML, CSS, JavaScript)*
   - Led full-stack development of a travel booking platform. Designed the user interface, implemented a normalized MySQL database, and collaborated on RESTful API development.
